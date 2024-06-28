@@ -858,6 +858,19 @@ a:focus {
   color: #ffffff;
   margin-right: 10px;
 }
+.info_section .social_box .thanks{
+  
+  position: relative;
+  right:-4px;
+  width: 166px;
+  
+}
+
+.info_section .social_box .feedback{
+  position: relative;
+  width: 85px;
+  right:-3px;
+}
 
 .info_section .social_box a:hover {
   color: #fd9c6b;
